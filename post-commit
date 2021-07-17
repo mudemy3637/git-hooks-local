@@ -1,0 +1,4 @@
+#!/bin/sh
+
+
+echo Tanks for commiting $GIT_AUTHOR_NAME
